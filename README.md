@@ -2276,11 +2276,7 @@ This guide is not intended to replace any existing style guides but to supplemen
 
 Feel free to contribute or make suggestions to this guide. Any pull requests or contributions are welcomed to help us continually improve.
 
-For more updates and to connect with me, you can find me on social media:
-
 - [Twitter](https://twitter.com/adamboudj)
 - [GitHub](https://github.com/Aboudjem)
-- [LinkedIn](https://www.linkedin.com/in/adam-boudjemaa)
-- [Medium](https://medium.com/@adamboudj)
 
 Thank you for using this guide, and happy coding!
