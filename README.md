@@ -1,6 +1,6 @@
-# Solidity Style Guide
+# Biconomy Solidity Style Guide
 
-- [Solidity Style Guide](#solidity-style-guide)
+- [Biconomy Solidity Style Guide 🍊](#biconomy-solidity-style-guide)
   - [Introduction](#introduction)
     - [Purpose and Scope](#purpose-and-scope)
     - [Evolution of the Guide](#evolution-of-the-guide)
