@@ -1703,7 +1703,7 @@ function calculate(uint256 a, uint256 b) public pure returns (uint256, uint256) 
 ```
 
 > [!TIP]
-> 💡 Named return variables save gas by avoiding redundant return statements and make the code more readable.
+> 💡 Named return variables save gas by avoiding redundant return statements and making the code more readable.
 
 #### Prefer Named Arguments
 
@@ -1950,8 +1950,6 @@ function add(uint x, uint y) public pure returns (uint result) {
 
 > [!NOTE]
 > Inheritance is useful but should be used judiciously, especially when building on existing, trusted contracts like `Ownable` from OpenZeppelin.
-
-These best practices help ensure that Solidity code is secure, efficient, and maintainable, leveraging the latest features and conventions of Solidity 0.8.26.
 
 ### Testing (Foundry Specific)
 
